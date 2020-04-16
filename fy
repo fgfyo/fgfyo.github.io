@@ -67,7 +67,7 @@ CETV1,http://112.50.243.8/PLTV/88888888/224/3221226954/1.m3u8#http://iptv.pdsu.e
 凤凰资讯台,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226142/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226142/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8#http://qlive.fengshows.cn/live720p/PIN.flv
 凤凰香港台,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226120/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226120/1.m3u8#http://qlive.fengshows.cn/live720p/PHK.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-TVB翡翠台,http://www.mszb168998.cn/aaabcdqqzbaabcdefzbdy.php?id=9#http://193.202.44.14/aAxg666.php?id=1#p8p://0198.02686.cc:16871/5d1a69fb000eb19011bef55c89140144.ts
+TVB翡翠台,p8p://0198.02686.cc:16871/5d1a69fb000eb19011bef55c89140144.ts
 中天新闻,http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 中天综合,http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 东森新闻,http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
@@ -233,7 +233,7 @@ ELEVEN SPORTS+,P2p://sdgdklwos.finetv.tv:9906/59fd23c0000c1e7f02a0245c6964058b
 博斯運動2HD,P2p://sdgdklwos.finetv.tv:9906/59fd3861000ae97702f0b8f522337286
 
 4K测试频道,#genre#
-CCTV-4K超高清,http://218.98.46.179/livews-4k.5club.cctv.cn/live/4K.stream/playlist.m3u8#http://110.242.20.88/livews-4k.5club.cctv.cn/live/4K.stream/playlist.m3u8#http://220.194.222.185/livews-4k.5club.cctv.cn/live/4K.stream/playlist.m3u8
+CCTV-4K超高清,http://110.242.20.88/livews-4k.5club.cctv.cn/live/4K.stream/playlist.m3u8
 纯享4K,http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8#http://itv.ahau.edu.cn/PLTV/88888888/224/3221226825/1.m3u8
 咪咕体育4K,http://112.50.243.8/PLTV/88888888/224/3221226833/1.m3u8
 爱上4K,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
