@@ -238,7 +238,7 @@ CCTV-4K超高清,http://218.98.46.179/livews-4k.5club.cctv.cn/live/4K.stream/pla
 咪咕体育4K,http://112.50.243.8/PLTV/88888888/224/3221226833/1.m3u8
 爱上4K,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
 
-体育频道
+体育频道,,#genre#
 CCTV-5体育,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000205103.m3u8#http://101.71.255.232:6610/zjhs/2/10076/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://112.50.243.8/PLTV/88888888/224/3221226560/1.m3u8
 CCTV-5+体育赛事,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000204503.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225939/1.m3u8
 新视觉体育,http://140.207.241.2:8080/live/program/live/xsjhd/4000000/mnf.m3u8
@@ -256,6 +256,7 @@ CHC家庭电影,http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel
 #http://125.210.152.18:9090/live/JTYYHD_H265.m3u8#rtmp://ivi.bupt.edu.cn:1935/livetv/chctv#http://iptv.pdsu.edu.cn/hls/chctv.m3u8#http://hdtv.lzu6.edu.cn/hls/chctv.m3u8
 4K超高清电影,http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel51024/index.m3u8
 东方影视,http://140.207.241.2:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
+湖南电影,http://httpdvb.slave.homed.hunancatv.com:13164/playurl?playtype=live&protocol=hls&accesstoken=R5DEE27D0U309B3089K7735A23DIC56EFF0APBM2FFCD29V0Z69015W15DEAE8ECE8A23EB&playtoken=ABCDEFGH&programid=4200000026.m3u8
 长沙影视,http://116.207.131.14/guangdianyun_35848/tv_channel_350.m3u8
 峨眉电影（红标）,http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel51008/index.m3u8
 峨眉电影（三色标）,http://220.194.223.62/scgctvshow.sctv.com/hdlive/emei/1.m3u8
