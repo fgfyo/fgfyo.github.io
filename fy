@@ -63,15 +63,10 @@ CETV1,http://112.50.243.8/PLTV/88888888/224/3221226954/1.m3u8#http://iptv.pdsu.e
 
 
 港澳台频道,#genre#
-凤凰中文台,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226143/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226143/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8#http://qlive.fengshows.cn/live720p/PCC.flv
-凤凰资讯台,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226142/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226142/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8#http://qlive.fengshows.cn/live720p/PIN.flv
-凤凰香港台,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226120/1.m3u8#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226120/1.m3u8#http://qlive.fengshows.cn/live720p/PHK.flv
+凤凰中文台,http://qlive.fengshows.cn/live/PCC.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
+凤凰资讯台,http://qlive.fengshows.cn/livep/PIN.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
+凤凰香港台,http://qlive.fengshows.cn/live/PHK.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226120/1.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-TVB翡翠台,p8p://0198.02686.cc:16871/5d1a69fb000eb19011bef55c89140144.ts
-中天新闻,http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
-中天综合,http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
-东森新闻,http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
-华娱卫视,http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
 
 P2P,#genre#
 TVB翡翠台,P2p://sdgdklwos.finetv.tv:9906/5ad32c0d0000bbd049ef0eab717740e2
