@@ -63,9 +63,9 @@ CETV1,http://112.50.243.8/PLTV/88888888/224/3221226954/1.m3u8#http://iptv.pdsu.e
 
 
 港澳台频道,#genre#
-凤凰中文台,http://qlive.fengshows.cn/live/PCC.m3u8#http://111.13.42.8/PLTV/88888888/224/3221225948/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
-凤凰资讯台,http://qlive.fengshows.cn/live/PIN.m3u8#http://111.13.42.8/PLTV/88888888/224/3221225949/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
-凤凰香港台,http://qlive.fengshows.cn/live/PHK.m3u8#http://111.13.42.8/PLTV/88888888/224/3221226120/1.m3u8
+凤凰中文台,http://qlive.fengshows.cn/live/PCC.flv#http://111.13.42.9/PLTV/88888888/224/3221225948/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
+凤凰资讯台,http://qlive.fengshows.cn/live/PIN.flv#http://111.13.42.9/PLTV/88888888/224/3221225949/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
+凤凰香港台,http://qlive.fengshows.cn/live/PHK.flv#http://111.13.42.9/PLTV/88888888/224/3221226120/1.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 4K测试频道,#genre#
