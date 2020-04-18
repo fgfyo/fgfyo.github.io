@@ -18,8 +18,8 @@ CCTV-15音乐,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000205003.m3u8#
 CCTV-17农业农村,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000204203.m3u8#http://112.50.243.8/PLTV/88888888/224/3221226986/1.m3u8#http://itv.ahau.edu.cn/hls/cctv17hd.m3u8
 CCTV-4K超高清,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
 CGTN英语国际,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2001656803.m3u8#http://ivi.bupt.edu.cn/hls/cgtnhd.m3u8#http://iptv.pdsu.edu.cn/hls/cgtnhd.m3u8
-CGTN Doc纪录,http://ivi.bupt.edu.cn/hls/cgtndochd.m3u8#http://iptv.pdsu.edu.cn/hls/cgtndochd.m3u8#http://hdtv.lzu6.edu.cn/hls/hls67a44.m3u8
-CETV1,http://112.50.243.8/PLTV/88888888/224/3221226954/1.m3u8#http://iptv.pdsu.edu.cn/hls/cetv1hd.m3u8#http://ivi.bupt.edu.cn/hls/cetv1hd.m3u8
+CGTN Doc纪录,http://ivi6.bupt.edu.cn/hls/cgtndochd.m3u8#http://iptv.pdsu.edu.cn/hls/cgtndochd.m3u8#http://hdtv.lzu6.edu.cn/hls/hls67a44.m3u8
+CETV1,http://112.50.243.8/PLTV/88888888/224/3221226954/1.m3u8#http://iptv.pdsu.edu.cn/hls/cetv1hd.m3u8#http://ivi6.bupt.edu.cn/hls/cetv1hd.m3u8
 
 卫视频道,#genre#
 湖南卫视,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000296203.m3u8#http://101.71.255.232:6610/zjhs/2/10024/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://112.50.243.8/PLTV/88888888/224/3221225935/1.m3u8
@@ -32,30 +32,30 @@ CETV1,http://112.50.243.8/PLTV/88888888/224/3221226954/1.m3u8#http://iptv.pdsu.e
 深圳卫视,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000292203.m3u8#http://101.71.255.232:6610/zjhs/2/10045/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://112.50.243.8/PLTV/88888888/224/3221225938/1.m3u8
 辽宁卫视,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000281303.m3u8#http://101.71.255.232:6610/zjhs/2/10098/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://112.50.243.8/PLTV/88888888/224/3221225947/1.m3u8
 山东卫视,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000294803.m3u8#http://101.71.255.232:6610/zjhs/2/10040/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://112.50.243.8/PLTV/88888888/224/3221225943/1.m3u8
-天津卫视,http://ivi.bupt.edu.cn/hls/tjhd.m3u8#http://101.71.255.232:6610/zjhs/2/10048/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://112.50.243.8/PLTV/88888888/224/3221225941/1.m3u8
+天津卫视,http://ivi6.bupt.edu.cn/hls/tjhd.m3u8#http://101.71.255.232:6610/zjhs/2/10048/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://112.50.243.8/PLTV/88888888/224/3221225941/1.m3u8
 重庆卫视,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000297803.m3u8#http://101.71.255.232:6610/zjhs/2/10102/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://112.50.243.8/PLTV/88888888/224/3221225949/1.m3u8
 东南卫视,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000292503.m3u8#http://101.71.255.232:6610/zjhs/2/10093/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://112.50.243.8/PLTV/88888888/224/3221226877/1.m3u8
 广西卫视,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000294203.m3u8#http://ivi.bupt.edu.cn/hls/gxhd.m3u8
 贵州卫视,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000293303.m3u8#http://101.71.255.232:6610/zjhs/2/10094/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://112.50.243.8/PLTV/88888888/224/3221226827/1.m3u8
-河北卫视,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000293403.m3u8#http://ivi.bupt.edu.cn/hls/hebhd.m3u8
+河北卫视,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000293403.m3u8#http://ivi6.bupt.edu.cn/hls/hebhd.m3u8
 黑龙江卫视,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000293903.m3u8#http://101.71.255.232:6610/zjhs/2/10020/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://112.50.243.8/PLTV/88888888/224/3221225940/1.m3u8
 河南卫视,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000296103.m3u8#http://101.71.255.232:6610/zjhs/2/10095/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 湖北卫视,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000294503.m3u8#http://101.71.255.232:6610/zjhs/2/10022/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://112.50.243.8/PLTV/88888888/224/3221226863/1.m3u8
 江西卫视,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000294103.m3u8#http://101.71.255.232:6610/zjhs/2/10097/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://112.50.243.8/PLTV/88888888/224/3221225834/1.m3u8
-吉林卫视,http://ivi.bupt.edu.cn/hls/jlhd.m3u8#http://itv.ahau.edu.cn/hls/jlhd.m3u8#http://hdtv.lzu6.edu.cn/hls/jlhd.m3u8
+吉林卫视,http://ivi6.bupt.edu.cn/hls/jlhd.m3u8#http://itv.ahau.edu.cn/hls/jlhd.m3u8#http://hdtv.lzu6.edu.cn/hls/jlhd.m3u8
 四川卫视,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000295003.m3u8#http://101.71.255.232:6610/zjhs/2/10099/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 海南卫视,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000291503.m3u8#http://ivi.bupt.edu.cn/hls/lyhd.m3u8#http://itv.ahau.edu.cn/hls/lyhd.m3u8
 
 本地频道,#genre#
-北京文艺,http://ivi.bupt.edu.cn/hls/btv2hd.m3u8#http://iptv.pdsu.edu.cn/hls/btv2hd.m3u8
-北京科教,http://ivi.bupt.edu.cn/hls/btv3.m3u8#http://iptv.pdsu.edu.cn/hls/btv3.m3u8
-北京影视,http://ivi.bupt.edu.cn/hls/btv4hd.m3u8#http://iptv.pdsu.edu.cn/hls/btv4hd.m3u8
-北京财经,http://ivi.bupt.edu.cn/hls/btv5.m3u8#http://iptv.pdsu.edu.cn/hls/btv5.m3u8
-北京生活,http://ivi.bupt.edu.cn/hls/btv7.m3u8#http://iptv.pdsu.edu.cn/hls/btv7.m3u8
-北京青年,http://ivi.bupt.edu.cn/hls/btv8.m3u8#http://iptv.pdsu.edu.cn/hls/btv8.m3u8
-北京新闻,http://ivi.bupt.edu.cn/hls/btv9hd.m3u8#http://iptv.pdsu.edu.cn/hls/btv9hd.m3u8
-北京卡酷少儿,http://ivi.bupt.edu.cn/hls/btv10.m3u8#http://iptv.pdsu.edu.cn/hls/btv10.m3u8
-北京冬奥纪实,http://ivi.bupt.edu.cn/hls/btv11hd.m3u8#http://iptv.pdsu.edu.cn/hls/btv11hd.m3u8
+北京文艺,http://ivi6.bupt.edu.cn/hls/btv2hd.m3u8#http://iptv.pdsu.edu.cn/hls/btv2hd.m3u8
+北京科教,http://ivi6.bupt.edu.cn/hls/btv3.m3u8#http://iptv.pdsu.edu.cn/hls/btv3.m3u8
+北京影视,http://ivi6.bupt.edu.cn/hls/btv4hd.m3u8#http://iptv.pdsu.edu.cn/hls/btv4hd.m3u8
+北京财经,http://ivi6.bupt.edu.cn/hls/btv5.m3u8#http://iptv.pdsu.edu.cn/hls/btv5.m3u8
+北京生活,http://ivi6.bupt.edu.cn/hls/btv7.m3u8#http://iptv.pdsu.edu.cn/hls/btv7.m3u8
+北京青年,http://ivi6.bupt.edu.cn/hls/btv8.m3u8#http://iptv.pdsu.edu.cn/hls/btv8.m3u8
+北京新闻,http://ivi6.bupt.edu.cn/hls/btv9hd.m3u8#http://iptv.pdsu.edu.cn/hls/btv9hd.m3u8
+北京卡酷少儿,http://ivi6.bupt.edu.cn/hls/btv10.m3u8#http://iptv.pdsu.edu.cn/hls/btv10.m3u8
+北京冬奥纪实,http://ivi6.bupt.edu.cn/hls/btv11hd.m3u8#http://iptv.pdsu.edu.cn/hls/btv11hd.m3u8
 上海新闻综合,http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
 上海ICS,http://140.207.241.2:8080/live/program/live/wypdhd/4000000/mnf.m3u8
 上海都市,http://140.207.241.2:8080/live/program/live/ylpdhd/4000000/mnf.m3u8
@@ -73,6 +73,7 @@ CCTV-4K超高清,http://110.242.20.88/livews-4k.5club.cctv.cn/live/4K.stream/pla
 纯享4K,http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8#http://itv.ahau.edu.cn/PLTV/88888888/224/3221226825/1.m3u8
 咪咕体育4K,http://112.50.243.8/PLTV/88888888/224/3221226833/1.m3u8
 爱上4K,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
+移动4K,http://111.13.42.46/PLTV/88888888/224/3221226399/1.m3u8
 
 体育频道,,#genre#
 CCTV-5体育,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000205103.m3u8#http://101.71.255.232:6610/zjhs/2/10076/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://112.50.243.8/PLTV/88888888/224/3221226560/1.m3u8
@@ -85,11 +86,10 @@ CCTV-5+体育赛事,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000204503
 足球频道,http://hdtv.lzu6.edu.cn/hls/zqhd.m3u8
 
 影视频道,#genre#
-CCTV-6电影,http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8#http://101.71.255.232:6610/zjhs/2/10066/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://iptv.pdsu.edu.cn/hls/cctv6hd.m3u8
-CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8#http://iptv.pdsu.edu.cn/hls/chchd.m3u8#http://220.194.223.62/sk.live.otvcloud.com/otv/skcc/live/channel43063/index.m3u8
-CHC动作电影,http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel51011/index.m3u8#P2p://sdgdklwos.finetv.tv:9906/59fd25c800060e1102a812154e343f18#http://125.210.152.18:9090/live/DZDYHD_H265.m3u8#rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv#http://iptv.pdsu.edu.cn/hls/chcatv.m3u8#http://hdtv.lzu6.edu.cn/hls/chcatv.m3u8
-CHC家庭电影,http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel51010/index.m3u8#P2p://sdgdklwos.finetv.tv:9906/59fd25b000031edb02a7b38a6a5d0696
-#http://125.210.152.18:9090/live/JTYYHD_H265.m3u8#rtmp://ivi.bupt.edu.cn:1935/livetv/chctv#http://iptv.pdsu.edu.cn/hls/chctv.m3u8#http://hdtv.lzu6.edu.cn/hls/chctv.m3u8
+CCTV-6电影,http://ivi6.bupt.edu.cn/hls/cctv6hd.m3u8#http://101.71.255.232:6610/zjhs/2/10066/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://iptv.pdsu.edu.cn/hls/cctv6hd.m3u8
+CHC高清电影,http://ivi6.bupt.edu.cn/hls/chchd.m3u8#http://iptv.pdsu.edu.cn/hls/chchd.m3u8#http://220.194.223.62/sk.live.otvcloud.com/otv/skcc/live/channel43063/index.m3u8
+CHC动作电影,http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel51011/index.m3u8#http://125.210.152.18:9090/live/DZDYHD_H265.m3u#rtmp://ivi6.bupt.edu.cn:1935/livetv/chcatv#http://iptv.pdsu.edu.cn/hls/chcatv.m3u8#http://hdtv.lzu6.edu.cn/hls/chcatv.m3u8
+CHC家庭电影,http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel51010/index.m3u8#http://125.210.152.18:9090/live/JTYYHD_H265.m3u8#rtmp://ivi6.bupt.edu.cn:1935/livetv/chctv#http://iptv.pdsu.edu.cn/hls/chctv.m3u8#http://hdtv.lzu6.edu.cn/hls/chctv.m3u8
 4K超高清电影,http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel51024/index.m3u8
 东方影视,http://140.207.241.2:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
 湖南电影,http://httpdvb.slave.homed.hunancatv.com:13164/playurl?playtype=live&protocol=hls&accesstoken=R5DEE27D0U309B3089K7735A23DIC56EFF0APBM2FFCD29V0Z69015W15DEAE8ECE8A23EB&playtoken=ABCDEFGH&programid=4200000026.m3u8
@@ -100,7 +100,6 @@ CHC家庭电影,http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel
 大众影视,http://hdtv.lzu6.edu.cn/hls/hls75a27.m3u8#http://hdtv.lzu6.edu.cn/hls/hls164.m3u8
 家庭影院,http://hdtv.lzu6.edu.cn/hls/hls75a29.m3u8#http://hdtv.lzu6.edu.cn/hls/hls166.m3u8
 卡通剧场,http://hdtv.lzu6.edu.cn/hls/hls77a30.m3u8
-熊猫频道,http://hdtv.lzu6.edu.cn/hls/hls148.m3u8
 CITY都市剧场,http://140.207.241.2:8080/live/program/live/dsjchd/4000000/mnf.m3u8
 欢笑剧场,http://112.50.243.8/PLTV/88888888/224/3221226729/1.m3u8
 动漫秀场,http://112.50.243.8/PLTV/88888888/224/3221226141/1.m3u8#http://140.207.241.2:8080/live/program/live/dmxchd/4000000/mnf.m3u8
@@ -113,11 +112,11 @@ CITY都市剧场,http://140.207.241.2:8080/live/program/live/dsjchd/4000000/mnf.
 
 探索频道,#genre#
 CCTV-10科教,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000203503.m3u8#http://101.71.255.232:6610/zjhs/2/10084/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://112.50.243.8/PLTV/88888888/224/3221225931/1.m3u8
-上海人文纪实,http://112.50.243.8/PLTV/88888888/224/3221225946/1.m3u8#http://140.207.241.2:8080/live/program/live/jspdhd/4000000/mnf.m3u8#http://ivi.bupt.edu.cn/hls/docuchina.m3u8#http://iptv.pdsu.edu.cn/hls/docuchina.m3u8
+上海纪实,http://112.50.243.8/PLTV/88888888/224/3221225946/1.m3u8#http://140.207.241.2:8080/live/program/live/jspdhd/4000000/mnf.m3u8#http://ivi.bupt.edu.cn/hls/docuchina.m3u8#http://iptv.pdsu.edu.cn/hls/docuchina.m3u8
 金鹰纪实,http://112.50.243.8/PLTV/88888888/224/3221226937/1.m3u8#http://ivi.bupt.edu.cn/hls/gedocu.m3u8#http://iptv.pdsu.edu.cn/hls/gedocu.m3u8#http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel43025/index.m3u8
-北京冬奥纪实,http://112.50.243.8/PLTV/88888888/224/3221225944/1.m3u8#http://ivi.bupt.edu.cn/hls/btv11hd.m3u8#http://iptv.pdsu.edu.cn/hls/btv11hd.m3u8
+北京纪实,http://112.50.243.8/PLTV/88888888/224/3221225944/1.m3u8#http://ivi.bupt.edu.cn/hls/btv11hd.m3u8#http://iptv.pdsu.edu.cn/hls/btv11hd.m3u8
 全纪实,http://140.207.241.2:8080/live/program/live/qjshd/4000000/mnf.m3u8#http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel43040/4000.m3u8
-探索频道,http://iptv.pdsu.edu.cn/hls/discovery.m3u8
+探索亚洲,http://iptv.pdsu.edu.cn/hls/discovery.m3u8
 国家地理频道,http://iptv.pdsu.edu.cn/hls/natlgeo.m3u8
 求索动物,http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel43053/index.m3u8
 求索记录,http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel43051/index.m3u8
