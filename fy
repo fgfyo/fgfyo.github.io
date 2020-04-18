@@ -87,8 +87,8 @@ CCTV-5+体育赛事,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000204503
 
 影视频道,#genre#
 CCTV-6电影,http://ivi6.bupt.edu.cn/hls/cctv6hd.m3u8#http://101.71.255.232:6610/zjhs/2/10066/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://iptv.pdsu.edu.cn/hls/cctv6hd.m3u8
-CHC高清电影,http://ivi6.bupt.edu.cn/hls/chchd.m3u8#http://iptv.pdsu.edu.cn/hls/chchd.m3u8#http://220.194.223.62/sk.live.otvcloud.com/otv/skcc/live/channel43063/index.m3u8
-CHC动作电影,http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel51011/index.m3u8#http://125.210.152.18:9090/live/DZDYHD_H265.m3u#rtmp://ivi6.bupt.edu.cn:1935/livetv/chcatv#http://iptv.pdsu.edu.cn/hls/chcatv.m3u8#http://hdtv.lzu6.edu.cn/hls/chcatv.m3u8
+CHC高清电影,http://ivi6.bupt.edu.cn/hls/chchd.m3u8#http://iptv.pdsu.edu.cn/hls/chchd.m3u8#http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel43063/index.m3u8
+CHC动作电影,http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel51011/index.m3u8#http://125.210.152.18:9090/live/DZDYHD_H265.m3u8#rtmp://ivi6.bupt.edu.cn:1935/livetv/chcatv#http://iptv.pdsu.edu.cn/hls/chcatv.m3u8#http://hdtv.lzu6.edu.cn/hls/chcatv.m3u8
 CHC家庭电影,http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel51010/index.m3u8#http://125.210.152.18:9090/live/JTYYHD_H265.m3u8#rtmp://ivi6.bupt.edu.cn:1935/livetv/chctv#http://iptv.pdsu.edu.cn/hls/chctv.m3u8#http://hdtv.lzu6.edu.cn/hls/chctv.m3u8
 4K超高清电影,http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel51024/index.m3u8
 东方影视,http://140.207.241.2:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
@@ -108,7 +108,6 @@ CITY都市剧场,http://140.207.241.2:8080/live/program/live/dsjchd/4000000/mnf.
 欢笑动画1,http://112.50.243.8/PLTV/88888888/224/3221226732/1.m3u8
 欢笑动画2,http://112.50.243.8/PLTV/88888888/224/3221226741/1.m3u8
 欢笑动画3,http://112.50.243.8/PLTV/88888888/224/3221226743/1.m3u8
-
 
 探索频道,#genre#
 CCTV-10科教,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000203503.m3u8#http://101.71.255.232:6610/zjhs/2/10084/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://112.50.243.8/PLTV/88888888/224/3221225931/1.m3u8
