@@ -18,7 +18,7 @@ CCTV-15音乐,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000205003.m3u8#
 CCTV-17农业农村,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000204203.m3u8#http://112.50.243.8/PLTV/88888888/224/3221226986/1.m3u8#http://itv.ahau.edu.cn/hls/cctv17hd.m3u8
 CCTV-4K超高清,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
 CGTN英语国际,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2001656803.m3u8#http://ivi.bupt.edu.cn/hls/cgtnhd.m3u8#http://iptv.pdsu.edu.cn/hls/cgtnhd.m3u8
-CGTN Doc纪录,http://ivi6.bupt.edu.cn/hls/cgtndochd.m3u8#http://iptv.pdsu.edu.cn/hls/cgtndochd.m3u8#http://hdtv.lzu6.edu.cn/hls/hls67a44.m3u8
+CGTN Documentary纪录,http://ivi6.bupt.edu.cn/hls/cgtndochd.m3u8#http://iptv.pdsu.edu.cn/hls/cgtndochd.m3u8#http://hdtv.lzu6.edu.cn/hls/hls67a44.m3u8
 CETV1,http://112.50.243.8/PLTV/88888888/224/3221226954/1.m3u8#http://iptv.pdsu.edu.cn/hls/cetv1hd.m3u8#http://ivi6.bupt.edu.cn/hls/cetv1hd.m3u8
 
 卫视频道,#genre#
@@ -47,17 +47,17 @@ CETV1,http://112.50.243.8/PLTV/88888888/224/3221226954/1.m3u8#http://iptv.pdsu.e
 海南卫视,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000291503.m3u8#http://ivi.bupt.edu.cn/hls/lyhd.m3u8#http://itv.ahau.edu.cn/hls/lyhd.m3u8
 
 本地频道,#genre#
-北京文艺,http://ivi6.bupt.edu.cn/hls/btv2hd.m3u8#http://iptv.pdsu.edu.cn/hls/btv2hd.m3u8
-北京科教,http://ivi6.bupt.edu.cn/hls/btv3.m3u8#http://iptv.pdsu.edu.cn/hls/btv3.m3u8
-北京影视,http://ivi6.bupt.edu.cn/hls/btv4hd.m3u8#http://iptv.pdsu.edu.cn/hls/btv4hd.m3u8
-北京财经,http://ivi6.bupt.edu.cn/hls/btv5.m3u8#http://iptv.pdsu.edu.cn/hls/btv5.m3u8
-北京生活,http://ivi6.bupt.edu.cn/hls/btv7.m3u8#http://iptv.pdsu.edu.cn/hls/btv7.m3u8
-北京青年,http://ivi6.bupt.edu.cn/hls/btv8.m3u8#http://iptv.pdsu.edu.cn/hls/btv8.m3u8
-北京新闻,http://ivi6.bupt.edu.cn/hls/btv9hd.m3u8#http://iptv.pdsu.edu.cn/hls/btv9hd.m3u8
-北京卡酷少儿,http://ivi6.bupt.edu.cn/hls/btv10.m3u8#http://iptv.pdsu.edu.cn/hls/btv10.m3u8
-北京冬奥纪实,http://ivi6.bupt.edu.cn/hls/btv11hd.m3u8#http://iptv.pdsu.edu.cn/hls/btv11hd.m3u8
+北京文艺,http://ivi6.bupt.edu.cn/hls/btv2hd.m3u8#http://iptv.pdsu.edu.cn/hls/btv2hd.m3u8#http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
+北京科教,http://ivi6.bupt.edu.cn/hls/btv3.m3u8#http://iptv.pdsu.edu.cn/hls/btv3.m3u8#http://ivi.bupt.edu.cn/hls/btv3.m3u8
+北京影视,http://ivi6.bupt.edu.cn/hls/btv4hd.m3u8#http://iptv.pdsu.edu.cn/hls/btv4hd.m3u8#http://ivi.bupt.edu.cn/hls/btv4hd.m3u8
+北京财经,http://ivi6.bupt.edu.cn/hls/btv5.m3u8#http://iptv.pdsu.edu.cn/hls/btv5.m3u8#http://ivi.bupt.edu.cn/hls/btv5.m3u8
+北京生活,http://ivi6.bupt.edu.cn/hls/btv7.m3u8#http://iptv.pdsu.edu.cn/hls/btv7.m3u8#http://ivi.bupt.edu.cn/hls/btv7.m3u8
+北京青年,http://ivi6.bupt.edu.cn/hls/btv8.m3u8#http://iptv.pdsu.edu.cn/hls/btv8.m3u8#http://ivi.bupt.edu.cn/hls/btv8.m3u8
+北京新闻,http://ivi6.bupt.edu.cn/hls/btv9hd.m3u8#http://iptv.pdsu.edu.cn/hls/btv9hd.m3u8#http://ivi.bupt.edu.cn/hls/btv9.m3u8
+北京卡酷少儿,http://ivi6.bupt.edu.cn/hls/btv10.m3u8#http://iptv.pdsu.edu.cn/hls/btv10.m3u8#http://ivi.bupt.edu.cn/hls/btv10.m3u8
+北京纪实,http://ivi6.bupt.edu.cn/hls/btv11hd.m3u8#http://iptv.pdsu.edu.cn/hls/btv11hd.m3u8#http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
 上海新闻综合,http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
-上海ICS,http://140.207.241.2:8080/live/program/live/wypdhd/4000000/mnf.m3u8
+上海外语ICS,http://140.207.241.2:8080/live/program/live/wypdhd/4000000/mnf.m3u8
 上海都市,http://140.207.241.2:8080/live/program/live/ylpdhd/4000000/mnf.m3u8
 第一财经,http://140.207.241.2:8080/live/program/live/dycjhd/4000000/mnf.m3u8
 
@@ -87,7 +87,7 @@ CCTV-5+体育赛事,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000204503
 
 影视频道,#genre#
 CCTV-6电影,http://ivi6.bupt.edu.cn/hls/cctv6hd.m3u8#http://101.71.255.232:6610/zjhs/2/10066/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://iptv.pdsu.edu.cn/hls/cctv6hd.m3u8
-CHC高清电影,http://ivi6.bupt.edu.cn/hls/chchd.m3u8#http://iptv.pdsu.edu.cn/hls/chchd.m3u8#http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel43063/index.m3u8
+CHC高清电影,http://ivi6.bupt.edu.cn/hls/chchd.m3u8#http://iptv.pdsu.edu.cn/hls/chchd.m3u8#http://ivi.bupt.edu.cn/hls/chchd.m3u8#http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel43063/index.m3u8
 CHC动作电影,http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel51011/index.m3u8#http://125.210.152.18:9090/live/DZDYHD_H265.m3u8#rtmp://ivi6.bupt.edu.cn:1935/livetv/chcatv#http://iptv.pdsu.edu.cn/hls/chcatv.m3u8#http://hdtv.lzu6.edu.cn/hls/chcatv.m3u8
 CHC家庭电影,http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel51010/index.m3u8#http://125.210.152.18:9090/live/JTYYHD_H265.m3u8#rtmp://ivi6.bupt.edu.cn:1935/livetv/chctv#http://iptv.pdsu.edu.cn/hls/chctv.m3u8#http://hdtv.lzu6.edu.cn/hls/chctv.m3u8
 4K超高清电影,http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel51024/index.m3u8
@@ -100,7 +100,7 @@ CHC家庭电影,http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel
 大众影视,http://hdtv.lzu6.edu.cn/hls/hls75a27.m3u8#http://hdtv.lzu6.edu.cn/hls/hls164.m3u8
 家庭影院,http://hdtv.lzu6.edu.cn/hls/hls75a29.m3u8#http://hdtv.lzu6.edu.cn/hls/hls166.m3u8
 卡通剧场,http://hdtv.lzu6.edu.cn/hls/hls77a30.m3u8
-CITY都市剧场,http://140.207.241.2:8080/live/program/live/dsjchd/4000000/mnf.m3u8
+City都市剧场,http://140.207.241.2:8080/live/program/live/dsjchd/4000000/mnf.m3u8
 欢笑剧场,http://112.50.243.8/PLTV/88888888/224/3221226729/1.m3u8
 动漫秀场,http://112.50.243.8/PLTV/88888888/224/3221226141/1.m3u8#http://140.207.241.2:8080/live/program/live/dmxchd/4000000/mnf.m3u8
 欢笑剧场1,http://112.50.243.8/PLTV/88888888/224/3221226736/1.m3u8
@@ -116,9 +116,9 @@ CCTV-10科教,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000203503.m3u8#
 北京纪实,http://112.50.243.8/PLTV/88888888/224/3221225944/1.m3u8#http://ivi.bupt.edu.cn/hls/btv11hd.m3u8#http://iptv.pdsu.edu.cn/hls/btv11hd.m3u8
 全纪实,http://140.207.241.2:8080/live/program/live/qjshd/4000000/mnf.m3u8#http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel43040/4000.m3u8
 探索亚洲,http://iptv.pdsu.edu.cn/hls/discovery.m3u8
-国家地理频道,http://iptv.pdsu.edu.cn/hls/natlgeo.m3u8
+国家地理,http://iptv.pdsu.edu.cn/hls/natlgeo.m3u8
 求索动物,http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel43053/index.m3u8
-求索记录,http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel43051/index.m3u8
+求索纪录,http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel43051/index.m3u8
 求索生活,http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel43052/index.m3u8
 求索科学,http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel43054/index.m3u8
 
