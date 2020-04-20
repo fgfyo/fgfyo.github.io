@@ -65,12 +65,13 @@ CETV1,http://112.50.243.8/PLTV/88888888/224/3221226954/1.m3u8#http://iptv.pdsu.e
 港澳台频道,#genre#
 凤凰中文台,http://qlive.fengshows.cn/live/PCC.flv#http://111.13.42.9/PLTV/88888888/224/3221225948/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 凤凰资讯台,http://qlive.fengshows.cn/live/PIN.flv#http://111.13.42.9/PLTV/88888888/224/3221225949/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
-凤凰香港台,http://qlive.fengshows.cn/live/PHK.flv#http://111.13.42.9/PLTV/88888888/224/3221226120/1.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+凤凰香港台,http://qlive.fengshows.cn/live/PHK.flv#tvbus://3TnLG4CSBJC4D3NesXB6v4EhuRW33PeYMrNPrixpuz9Z8aYMrp#http://111.13.42.9/PLTV/88888888/224/3221226120/1.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#tvbus://3Cfrdt2QESpinW8tc6eA5ksB4kE63h5CdWJpUqg9qqGHeyueEv
+TVB翡翠台,tvbus://3cQ49Q394wz82zQPDgApQRrFPv57HJ4rmSsBWVGd34ZdiRDqkk
 
 4K测试频道,#genre#
 CCTV-4K超高清,http://110.242.20.88/livews-4k.5club.cctv.cn/live/4K.stream/playlist.m3u8
-纯享4K,http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8#http://itv.ahau.edu.cn/PLTV/88888888/224/3221226825/1.m3u8
+纯享4K,http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8#http://itv.ahau.edu.cn/PLTV/88888888/224/3221226825/1.m3u8#http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&authCode=3a&stbId=8A3603DD004735200000049573C4E39B&version=1.0&owaccmark=1000000004000011651&owchid=ystenlive&owsid=6721581571186720581&AuthInfo=QejU%2ByFkapDLEHjn7Vi7Bsh98cz5RjIeOqbMi0Qqlame2O8Id%2BgCUUdS4cJUD1ieqKIx8wFJ0pPdF5P8MGRzRrjFLuuRCIZ2D2ha%2Fr9iiM%2BAnSOfyc4s5zWrjzUdrEbf
 咪咕体育4K,http://112.50.243.8/PLTV/88888888/224/3221226833/1.m3u8
 爱上4K,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
 移动4K,http://111.13.42.46/PLTV/88888888/224/3221226399/1.m3u8
@@ -115,8 +116,8 @@ CCTV-10科教,http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000203503.m3u8#
 金鹰纪实,http://112.50.243.8/PLTV/88888888/224/3221226937/1.m3u8#http://ivi.bupt.edu.cn/hls/gedocu.m3u8#http://iptv.pdsu.edu.cn/hls/gedocu.m3u8#http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel43025/index.m3u8
 北京纪实,http://112.50.243.8/PLTV/88888888/224/3221225944/1.m3u8#http://ivi.bupt.edu.cn/hls/btv11hd.m3u8#http://iptv.pdsu.edu.cn/hls/btv11hd.m3u8
 全纪实,http://140.207.241.2:8080/live/program/live/qjshd/4000000/mnf.m3u8#http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel43040/4000.m3u8
-探索亚洲,http://iptv.pdsu.edu.cn/hls/discovery.m3u8
-国家地理,http://iptv.pdsu.edu.cn/hls/natlgeo.m3u8
+探索亚洲,http://iptv.pdsu.edu.cn/hls/discovery.m3u8#tvbus://3YTQyx5qi6o9dtJF1aoqCdPvaTb3EyE37w4EkeWwxESzBMe7EE
+国家地理,http://iptv.pdsu.edu.cn/hls/natlgeo.m3u8#tvbus://4rCzF92tpigEaTDyFzUYgZox2deV8MRNanzviXfVbUsiJCWP49
 求索动物,http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel43053/index.m3u8
 求索纪录,http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel43051/index.m3u8
 求索生活,http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel43052/index.m3u8
