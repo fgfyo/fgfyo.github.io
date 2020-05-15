@@ -75,8 +75,9 @@ CETV1,http://112.50.243.8/PLTV/88888888/224/3221226954/1.m3u8#http://iptv.pdsu.e
 CCTV-4K超高清,http://110.242.20.88/livews-4k.5club.cctv.cn/live/4K.stream/playlist.m3u8
 纯享4K,http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8#http://itv.ahau.edu.cn/PLTV/88888888/224/3221226825/1.m3u8#http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&authCode=3a&stbId=8A3603DD004735200000049573C4E39B&version=1.0&owaccmark=1000000004000011651&owchid=ystenlive&owsid=6721581571186720581&AuthInfo=QejU%2ByFkapDLEHjn7Vi7Bsh98cz5RjIeOqbMi0Qqlame2O8Id%2BgCUUdS4cJUD1ieqKIx8wFJ0pPdF5P8MGRzRrjFLuuRCIZ2D2ha%2Fr9iiM%2BAnSOfyc4s5zWrjzUdrEbf
 广东综艺4K,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=17&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-咪咕体育4K,http://112.50.243.8/PLTV/88888888/224/3221226833/1.m3u8
+BESTV-4K,http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229311/01.m3u8?fmt=ts2hls?rrsip=ltcottcdn.ln.chinamobile.com&zoneoffset=0&servicetype=1
 爱上4K,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
+咪咕体育4K,http://112.50.243.8/PLTV/88888888/224/3221226833/1.m3u8
 移动4K,http://111.13.42.46/PLTV/88888888/224/3221226399/1.m3u8
 
 体育频道,,#genre#
@@ -91,7 +92,7 @@ CCTV-5+体育赛事,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/200020450
 
 影视频道,#genre#
 CCTV-6电影,http://ivi6.bupt.edu.cn/hls/cctv6hd.m3u8#http://101.71.255.232:6610/zjhs/2/10066/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://iptv.pdsu.edu.cn/hls/cctv6hd.m3u8
-CHC高清电影,http://ivi6.bupt.edu.cn/hls/chchd.m3u8#http://iptv.pdsu.edu.cn/hls/chchd.m3u8#http://ivi.bupt.edu.cn/hls/chchd.m3u8#http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel43063/index.m3u8
+CHC高清电影,http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel43063/index.m3u8#http://ivi6.bupt.edu.cn/hls/chchd.m3u8#http://iptv.pdsu.edu.cn/hls/chchd.m3u8#http://ivi.bupt.edu.cn/hls/chchd.m3u8
 CHC动作电影,http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel51011/index.m3u8#http://125.210.152.18:9090/live/DZDYHD_H265.m3u8#rtmp://ivi6.bupt.edu.cn:1935/livetv/chcatv#http://iptv.pdsu.edu.cn/hls/chcatv.m3u8#http://hdtv.lzu6.edu.cn/hls/chcatv.m3u8
 CHC家庭电影,http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel51010/index.m3u8#http://125.210.152.18:9090/live/JTYYHD_H265.m3u8#rtmp://ivi6.bupt.edu.cn:1935/livetv/chctv#http://iptv.pdsu.edu.cn/hls/chctv.m3u8#http://hdtv.lzu6.edu.cn/hls/chctv.m3u8
 4K超高清电影,http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel51024/index.m3u8
