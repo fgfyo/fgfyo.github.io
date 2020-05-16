@@ -1,5 +1,5 @@
 央视频道,#genre#
-CCTV-1综合,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000210103.m3u8$央视源#http://101.71.255.232:6610/zjhs/2/10079/index.m3u8?virtualDomain=zjhs.live_hls.zte.com$浙江联通#http://112.50.243.8/PLTV/88888888/224/3221225922/1.m3u8$福建移动
+CCTV-1综合,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000210103.m3u8#http://101.71.255.232:6610/zjhs/2/10079/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://112.50.243.8/PLTV/88888888/224/3221225922/1.m3u8
 CCTV-2财经,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000203603.m3u8#http://101.71.255.232:6610/zjhs/2/10089/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8
 CCTV-3综艺,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000203803.m3u8#http://101.71.255.232:6610/zjhs/2/10069/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV-4中文国际,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000204803.m3u8#http://101.71.255.232:6610/zjhs/2/10090/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
