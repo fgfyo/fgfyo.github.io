@@ -143,20 +143,20 @@ CCTV-5+体育赛事,sop://p2p.cibn.cc:80/16$P2P高清#http://210.22.242.108/live
 新视觉,sop://p2p.cibn.cc:80/87$P2P高清#http://140.207.241.2:8080/live/program/live/xsjhd/4000000/mnf.m3u8$百事通,tvming-XSJHD
 五星体育,http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8$百事通,tvming-SHSportHD
 劲爆体育,sop://p2p.cibn.cc:80/12027$P2P高清#http://140.207.241.2:8080/live/program/live/jbtyhd/4000000/mnf.m3u8$百事通#http://220.194.223.62/sk.live.otvcloud.com/otv/skcc/live/channel43038/index.m3u8$湖南有线,tvming-JinBaoSportHD
-广东体育,sop://p2p.cibn.cc:80/39$P2P高清#http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel34/index.m3u8$湖南有线,tvming-GDSport
+广东体育,sop://p2p.cibn.cc:80/39$P2P高清#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel34/index.m3u8$湖南有线,tvming-GDSport
 魅力足球,http://140.207.241.2:8080/live/program/live/mlyyhd/4000000/mnf.m3u8$百事通#http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E4FB550U3096B010K7781D134I26617B7BPBM3233C4EV1044EZ33519WE64099A8502&playtoken=ABCDEFGHI&programid=4200000308.m3u8$天途云
 足球频道,http://hdtv.lzu6.edu.cn/hls/zqhd.m3u8$兰州大学
 
 影视频道
 CCTV-6电影,sop://p2p.cibn.cc:80/6$P2P高清#http://101.71.255.232:6610/zjhs/2/10066/index.m3u8?virtualDomain=zjhs.live_hls.zte.com$浙江联通#http://ivi6.bupt.edu.cn/hls/CCTV6hd.m3u8$北邮#http://iptv.pdsu.edu.cn/hls/CCTV6hd.m3u8$平顶山,cntv-cctv6
-CHC高清电影,sop://p2p.cibn.cc:80/764$P2P高清#http://ivi6.bupt.edu.cn/hls/chchd.m3u8$北邮#http://iptv.pdsu.edu.cn/hls/chchd.m3u8$平顶山#http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel43063/index.m3u8$湖南有线
-CHC动作电影,sop://p2p.cibn.cc:80/765$P2P高清#http://59.49.111.195/live.aishang.ctlcdn.com/00000110240324_1/encoder/0/playlist.m3u8?CONTENTID=00000110240324_1$爱尚源#http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel51011/index.m3u8$湖南有线,tvming-CHCAM
-CHC家庭电影,sop://p2p.cibn.cc:80/766$P2P高清#http://59.49.111.195/live.aishang.ctlcdn.com/00000110240323_1/encoder/0/playlist.m3u8?CONTENTID=00000110240323_1$爱尚源#http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel51010/index.m3u8$湖南有线,tvming-CHCFM
-4K超高清电影,http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel51024/index.m3u8$湖南有线
+CHC高清电影,sop://p2p.cibn.cc:80/764$P2P高清#http://ivi6.bupt.edu.cn/hls/chchd.m3u8$北邮#http://iptv.pdsu.edu.cn/hls/chchd.m3u8$平顶山#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43063/index.m3u8$湖南有线
+CHC动作电影,sop://p2p.cibn.cc:80/765$P2P高清#http://59.49.111.195/live.aishang.ctlcdn.com/00000110240324_1/encoder/0/playlist.m3u8?CONTENTID=00000110240324_1$爱尚源#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51011/index.m3u8$湖南有线,tvming-CHCAM
+CHC家庭电影,sop://p2p.cibn.cc:80/766$P2P高清#http://59.49.111.195/live.aishang.ctlcdn.com/00000110240323_1/encoder/0/playlist.m3u8?CONTENTID=00000110240323_1$爱尚源#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51010/index.m3u8$湖南有线,tvming-CHCFM
+4K超高清电影,http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51024/index.m3u8$湖南有线
 珠江电影,sop://p2p.cibn.cc:80/12019$P2P高清
 潇湘电影,sop://p2p.cibn.cc:80/306$P2P高清#http://httpdvb.slave.homed.hunancatv.com:13164/playurl?playtype=live&protocol=hls&accesstoken=R5DEE27D0U309B3089K7735A23DIC56EFF0APBM2FFCD29V0Z69015W15DEAE8ECE8A23EB&playtoken=ABCDEFGH&programid=4200000026.m3u8$湖南有线,tvming-HuNanMovie
 长沙影视,http://116.207.131.14/guangdianyun_35848/tv_channel_350.m3u8$湖南有线
-峨眉电影（红标）,http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel51008/index.m3u8$湖南有线
+峨眉电影（红标）,http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51008/index.m3u8$湖南有线
 峨眉电影（三色标）,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8$四川官网
 家庭剧场,http://hdtv.lzu6.edu.cn/hls/hls75a28.m3u8$兰州大学#http://hdtv.lzu6.edu.cn/hls/hls165.m3u8$兰州大学
 大众影视,http://hdtv.lzu6.edu.cn/hls/hls75a27.m3u8$兰州大学#http://hdtv.lzu6.edu.cn/hls/hls164.m3u8$兰州大学
@@ -175,22 +175,22 @@ CHC家庭电影,sop://p2p.cibn.cc:80/766$P2P高清#http://59.49.111.195/live.ais
 探索频道
 CCTV-10科教,sop://p2p.cibn.cc:80/10$P2P高清#http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000203503.m3u8$央视频#http://101.71.255.232:6610/zjhs/2/10084/index.m3u8?virtualDomain=zjhs.live_hls.zte.com$浙江联通#http://112.50.243.8/PLTV/88888888/224/3221225931/1.m3u8$福建移动,cntv-cctv10
 上海纪实,http://140.207.241.2:8080/live/program/live/jspdhd/4000000/mnf.m3u8$百事通#http://112.50.243.8/PLTV/88888888/224/3221225946/1.m3u8$福建移动#http://ivi6.bupt.edu.cn/hls/docuchina.m3u8#http://iptv.pdsu.edu.cn/hls/docuchina.m3u8,tvming-SHJiShiHD
-湖南纪实,http://ivi6.bupt.edu.cn/hls/gedocu.m3u8#http://iptv.pdsu.edu.cn/hls/gedocu.m3u8#http://112.50.243.8/PLTV/88888888/224/3221226937/1.m3u8$福建移动#http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel43025/index.m3u8,tvming-HuNanJiShi
+湖南纪实,http://ivi6.bupt.edu.cn/hls/gedocu.m3u8#http://iptv.pdsu.edu.cn/hls/gedocu.m3u8#http://112.50.243.8/PLTV/88888888/224/3221226937/1.m3u8$福建移动#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43025/index.m3u8,tvming-HuNanJiShi
 BTV纪实,http://112.50.243.8/PLTV/88888888/224/3221225944/1.m3u8$福建移动#http://ivi6.bupt.edu.cn/hls/btv11hd.m3u8#http://iptv.pdsu.edu.cn/hls/btv11hd.m3u8,tvming-JiShiHD
-全纪实,http://140.207.241.2:8080/live/program/live/qjshd/4000000/mnf.m3u8$百事通#http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel43040/4000.m3u8$湖南有线,tvming-QuanJiShiHD
+全纪实,http://140.207.241.2:8080/live/program/live/qjshd/4000000/mnf.m3u8$百事通#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43040/4000.m3u8$湖南有线,tvming-QuanJiShiHD
 探索亚洲,http://iptv.pdsu.edu.cn/hls/discovery.m3u8$平顶山
 国家地理,http://iptv.pdsu.edu.cn/hls/natlgeo.m3u8$平顶山
-求索动物,http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8fmt=ts2hls?rrsip=ltcottcdn.ln.chinamobile.com&zoneoffset=0&servicetype=1$浙江移动#http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel43053/index.m3u8$湖南有线
-求索纪录,http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls?rrsip=ltcottcdn.ln.chinamobile.com&zoneoffset=0&servicetype=1$浙江移动#http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel43051/index.m3u8$湖南有线
-求索生活,http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228983/01.m3u8?fmt=ts2hls?rrsip=ltcottcdn.ln.chinamobile.com&zoneoffset=0&servicetype=1$浙江移动#http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel43052/index.m3u8$湖南有线
-求索科学,http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls?rrsip=ltcottcdn.ln.chinamobile.com&zoneoffset=0&servicetype=1$浙江移动#http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel43054/index.m3u8$湖南有线
+求索动物,http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8fmt=ts2hls?rrsip=ltcottcdn.ln.chinamobile.com&zoneoffset=0&servicetype=1$浙江移动#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43053/index.m3u8$湖南有线
+求索纪录,http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls?rrsip=ltcottcdn.ln.chinamobile.com&zoneoffset=0&servicetype=1$浙江移动#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43051/index.m3u8$湖南有线
+求索生活,http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228983/01.m3u8?fmt=ts2hls?rrsip=ltcottcdn.ln.chinamobile.com&zoneoffset=0&servicetype=1$浙江移动#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43052/index.m3u8$湖南有线
+求索科学,http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls?rrsip=ltcottcdn.ln.chinamobile.com&zoneoffset=0&servicetype=1$浙江移动#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43054/index.m3u8$湖南有线
 探索纪录,http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228366/01.m3u8?fmt=ts2hls?rrsip=ltcottcdn.ln.chinamobile.com&zoneoffset=0&servicetype=1$浙江移动
 漫游世界,http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228581/01.m3u8?fmt=ts2hls?rrsip=ltcottcdn.ln.chinamobile.com&zoneoffset=0&servicetype=1$浙江移动
 
 
 休闲频道
 生活时尚,http://140.207.241.2:8080/live/program/live/shsshd/4000000/mnf.m3u8$百事通
-急速汽车,http://140.207.241.2:8080/live/program/live/jsqchd/4000000/mnf.m3u8$百事通#http://112.50.243.8/PLTV/88888888/224/3221226140/1.m3u8$福建移动#http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel43042/index.m3u8$湖南有线
+急速汽车,http://140.207.241.2:8080/live/program/live/jsqchd/4000000/mnf.m3u8$百事通#http://112.50.243.8/PLTV/88888888/224/3221226140/1.m3u8$福建移动#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43042/index.m3u8$湖南有线
 游戏风云,http://140.207.241.2:8080/live/program/live/yxfyhd/4000000/mnf.m3u8$百事通#http://112.50.243.8/PLTV/88888888/224/3221226912/1.m3u8$福建移动,tvming-YouXiFYHD
 快乐垂钓,sop://p2p.cibn.cc:80/491$P2P高清#http://112.50.243.8/PLTV/88888888/224/3221226940/1.m3u8$福建移动
 茶频道,http://39.135.250.73/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226058/99180001000000060000000000000415.smil$湖北移动#http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229404/01.m3u8?fmt=ts2hls?rrsip=ltcottcdn.ln.chinamobile.com&zoneoffset=0&servicetype=1$浙江移动
@@ -259,5 +259,3 @@ iHOT频道
 爱探索,http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230112/1.m3u8$浙江移动
 爱家庭,http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230118/1.m3u8$浙江移动
 爱青春,http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230130/1.m3u8$浙江移动
-
-
