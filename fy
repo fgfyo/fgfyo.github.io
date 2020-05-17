@@ -129,14 +129,18 @@ CCTV-10科教,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000203503.m3u8
 求索纪录,http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel43051/index.m3u8#http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls?rrsip=ltcottcdn.ln.chinamobile.com&zoneoffset=0&servicetype=1
 求索生活,http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel43052/index.m3u8#,http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228983/01.m3u8?fmt=ts2hls?rrsip=ltcottcdn.ln.chinamobile.com&zoneoffset=0&servicetype=1
 求索科学,http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel43054/index.m3u8#http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls?rrsip=ltcottcdn.ln.chinamobile.com&zoneoffset=0&servicetype=1
+探索纪录,http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228366/01.m3u8?fmt=ts2hls?rrsip=ltcottcdn.ln.chinamobile.com&zoneoffset=0&servicetype=1
+
 
 
 休闲频道,#genre#
 生活时尚,http://140.207.241.2:8080/live/program/live/shsshd/4000000/mnf.m3u8
-茶频道,http://39.135.250.73/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226058/99180001000000060000000000000415.smil
+茶频道,http://39.135.250.73/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226058/99180001000000060000000000000415.smil#http://39.135.250.73/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226058/99180001000000060000000000000415.smil
 急速汽车,http://112.50.243.8/PLTV/88888888/224/3221226140/1.m3u8#http://140.207.241.2:8080/live/program/live/jsqchd/4000000/mnf.m3u8#http://210.22.242.108/sk.live.otvcloud.com/otv/skcc/live/channel43042/index.m3u8
 游戏风云,http://112.50.243.8/PLTV/88888888/224/3221226912/1.m3u8#http://140.207.241.2:8080/live/program/live/yxfyhd/4000000/mnf.m3u8
-风尚音乐,http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/5529729098703832176/z.m3u8?authCode=07110409322147352675&stbId=005301FF001589101611549359B92801&Contentid=5529729098703832176&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt&version=1.0&owaccmark=5529729098703832176&owchid=wasusyt&owsid=3246571579530794909&AuthInfo=2TOfGIahP4HrGWrHbpJXVM8tIjUabzvkQw3IFgi64wePjBmkxCliyfsNixolB3vk0fJDbsUHwM4ZMkLD2%2FuFtJVT%2FBKMSil0ujuXkiQNzBbZ5U6pNSIVxD4YjUWtTd0X
+风尚音乐,http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/5529729098703832176/z.m3u8?authCode=07110409322147352675&stbId=005301FF001589101611549359B92801&Contentid=5529729098703832176&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt&version=1.0&owaccmark=5529729098703832176&owchid=wasusyt&owsid=3246571579530794909&AuthInfo=2TOfGIahP4HrGWrHbpJXVM8tIjUabzvkQw3IFgi64wePjBmkxCliyfsNixolB3vk0fJDbsUHwM4ZMkLD2%2FuFtJVT%2FBKMSil0ujuXkiQNzBbZ5U6pNSIVxD4YjUWtTd0X#http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228344/01.m3u8?fmt=ts2hls?rrsip=ltcottcdn.ln.chinamobile.com&zoneoffset=0&servicetype=1
+综合娱乐HD,http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228575/01.m3u8?fmt=ts2hls?rrsip=ltcottcdn.ln.chinamobile.com&zoneoffset=0&servicetype=1
+漫游世界,http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228581/01.m3u8?fmt=ts2hls?rrsip=ltcottcdn.ln.chinamobile.com&zoneoffset=0&servicetype=1
 Channel[V],http://iptv.pdsu.edu.cn/hls/channelv.m3u8
 快乐垂钓,http://112.50.243.8/PLTV/88888888/224/3221226940/1.m3u8
 
