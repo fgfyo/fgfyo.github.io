@@ -57,7 +57,7 @@ CETV1,http://112.50.243.8/PLTV/88888888/224/3221226954/1.m3u8#http://iptv.pdsu.e
 北京生活,http://ivi6.bupt.edu.cn/hls/btv7.m3u8#http://iptv.pdsu.edu.cn/hls/btv7.m3u8#http://ivi.bupt.edu.cn/hls/btv7.m3u8
 北京青年,http://ivi6.bupt.edu.cn/hls/btv8.m3u8#http://iptv.pdsu.edu.cn/hls/btv8.m3u8#http://ivi.bupt.edu.cn/hls/btv8.m3u8
 北京新闻,http://ivi6.bupt.edu.cn/hls/btv9hd.m3u8#http://iptv.pdsu.edu.cn/hls/btv9hd.m3u8#http://ivi.bupt.edu.cn/hls/btv9.m3u8
-北京卡酷少儿,http://ivi6.bupt.edu.cn/hls/btv10.m3u8#http://iptv.pdsu.edu.cn/hls/btv10.m3u8#http://ivi.bupt.edu.cn/hls/btv10.m3u8
+卡酷少儿,http://ivi6.bupt.edu.cn/hls/btv10.m3u8#http://iptv.pdsu.edu.cn/hls/btv10.m3u8#http://ivi.bupt.edu.cn/hls/btv10.m3u8
 北京纪实,http://ivi6.bupt.edu.cn/hls/btv11hd.m3u8#http://iptv.pdsu.edu.cn/hls/btv11hd.m3u8#http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
 上海新闻,http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
 上海外语,http://140.207.241.2:8080/live/program/live/wypdhd/4000000/mnf.m3u8
@@ -67,9 +67,9 @@ CETV1,http://112.50.243.8/PLTV/88888888/224/3221226954/1.m3u8#http://iptv.pdsu.e
 
 
 港澳台频道,#genre#
-凤凰中文台,http://220.194.216.59/hlive.fengshows.cn/live/PCC.flv#http://111.13.42.9/PLTV/88888888/224/3221225948/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
-凤凰资讯台,http://220.194.216.59/hlive.fengshows.cn/live/PIN.flv#http://111.13.42.9/PLTV/88888888/224/3221225949/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
-凤凰香港台,http://220.194.216.59/hlive.fengshows.cn/live/PHK.flv#http://111.13.42.9/PLTV/88888888/224/3221226120/1.m3u8
+凤凰中文台,http://210.22.242.108/qlive.fengshows.cn/live/PCC.flv#http://111.13.42.9/PLTV/88888888/224/3221225948/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
+凤凰资讯台,http://210.22.242.108/qlive.fengshows.cn/live/PIN.flv#http://111.13.42.9/PLTV/88888888/224/3221225949/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
+凤凰香港台,http://210.22.242.108/qlive.fengshows.cn/live/PHK.flv#http://111.13.42.9/PLTV/88888888/224/3221226120/1.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 有线新闻,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
 有线综合娱乐,https://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f-3.m3u8
@@ -104,9 +104,9 @@ CCTV-5+体育赛事,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/200020450
 
 影视频道,#genre#
 CCTV-6电影,http://ivi6.bupt.edu.cn/hls/cctv6hd.m3u8#http://101.71.255.232:6610/zjhs/2/10066/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://iptv.pdsu.edu.cn/hls/cctv6hd.m3u8
-CHC高清电影,http://59.49.111.195/live.aishang.ctlcdn.com/00000110240325_1/encoder/0/playlist.m3u8?CONTENTID=00000110240325_1#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43063/index.m3u8#http://ivi6.bupt.edu.cn/hls/chchd.m3u8#http://iptv.pdsu.edu.cn/hls/chchd.m3u8#http://ivi.bupt.edu.cn/hls/chchd.m3u8
-CHC动作电影,http://59.49.111.195/live.aishang.ctlcdn.com/00000110240324_1/encoder/0/playlist.m3u8?CONTENTID=00000110240324_1#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51011/index.m3u8
-CHC家庭电影,http://59.49.111.195/live.aishang.ctlcdn.com/00000110240323_1/encoder/0/playlist.m3u8?CONTENTID=00000110240323_1#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51010/index.m3u8
+CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43063/index.m3u8#http://59.49.111.195/live.aishang.ctlcdn.com/00000110240325_1/encoder/0/playlist.m3u8?CONTENTID=00000110240325_1#http://ivi6.bupt.edu.cn/hls/chchd.m3u8#http://iptv.pdsu.edu.cn/hls/chchd.m3u8#http://ivi.bupt.edu.cn/hls/chchd.m3u8
+CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51011/index.m3u8#http://59.49.111.195/live.aishang.ctlcdn.com/00000110240324_1/encoder/0/playlist.m3u8?CONTENTID=00000110240324_1
+CHC家庭电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51010/index.m3u8#http://59.49.111.195/live.aishang.ctlcdn.com/00000110240323_1/encoder/0/playlist.m3u8?CONTENTID=00000110240323_1
 4K超高清电影,http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51024/index.m3u8
 湖南电影,http://httpdvb.slave.homed.hunancatv.com:13164/playurl?playtype=live&protocol=hls&accesstoken=R5DEE27D0U309B3089K7735A23DIC56EFF0APBM2FFCD29V0Z69015W15DEAE8ECE8A23EB&playtoken=ABCDEFGH&programid=4200000026.m3u8
 长沙影视,http://116.207.131.14/guangdianyun_35848/tv_channel_350.m3u8
