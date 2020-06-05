@@ -67,12 +67,9 @@ CETV1,http://112.50.243.8/PLTV/88888888/224/3221226954/1.m3u8#http://iptv.pdsu.e
 
 
 港澳台频道,#genre#
-凤凰中文台,
-http://tv.sason.xyz/proxy/fh.php?id=zw#http://210.22.242.108/qlive.fengshows.cn/live/PCC.flv#http://111.13.42.9/PLTV/88888888/224/3221225948/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
-凤凰资讯台,
-http://tv.sason.xyz/proxy/fh.php?id=zx#http://210.22.242.108/qlive.fengshows.cn/live/PIN.flv#http://111.13.42.9/PLTV/88888888/224/3221225949/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
-凤凰香港台,
-http://tv.sason.xyz/proxy/fh.php?id=hk#http://210.22.242.108/qlive.fengshows.cn/live/PHK.flv#http://111.13.42.9/PLTV/88888888/224/3221226120/1.m3u8
+凤凰中文台,http://tv.sason.xyz/proxy/fh.php?id=zw#http://210.22.242.108/qlive.fengshows.cn/live/PCC.flv#http://111.13.42.9/PLTV/88888888/224/3221225948/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
+凤凰资讯台,http://tv.sason.xyz/proxy/fh.php?id=zx#http://210.22.242.108/qlive.fengshows.cn/live/PIN.flv#http://111.13.42.9/PLTV/88888888/224/3221225949/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
+凤凰香港台,http://tv.sason.xyz/proxy/fh.php?id=hk#http://210.22.242.108/qlive.fengshows.cn/live/PHK.flv#http://111.13.42.9/PLTV/88888888/224/3221226120/1.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.m3u8
 有线新闻,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
 有线综合娱乐,https://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f-3.m3u8
