@@ -98,19 +98,19 @@ CCTV-5+体育赛事,http://101.227.140.13/live-cnc-cdn.ysp.cctv.cn/ysp/200020450
 新视觉体育,http://140.207.241.2:8080/live/program/live/xsjhd/4000000/mnf.m3u8
 五星体育,http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8
 劲爆体育,http://140.207.241.2:8080/live/program/live/jbtyhd/4000000/mnf.m3u8#http://220.194.223.62/sk.live.otvcloud.com/otv/skcc/live/channel43038/index.m3u8
-广东体育,http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel34/index.m3u8
+广东体育,http://180.97.123.180/sk.live.otvcloud.com/otv/skcc/live/channel34/index.m3u8
 魅力足球,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E4FB550U3096B010K7781D134I26617B7BPBM3233C4EV1044EZ33519WE64099A8502&playtoken=ABCDEFGHI&programid=4200000308.m3u8
 足球频道,http://hdtv.lzu6.edu.cn/hls/zqhd.m3u8
 
 影视频道,#genre#
 CCTV-6电影,http://ivi6.bupt.edu.cn/hls/cctv6hd.m3u8#http://101.71.255.232:6610/zjhs/2/10066/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://iptv.pdsu.edu.cn/hls/cctv6hd.m3u8
-CHC高清电影,http://39.134.18.68/wh7f454c46tw531199668_1691826774/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8?icpid=88888890&RTS=1591315979&from=1&ocs=2_39.134.18.68_80&hms_devid=7855&vqe=3#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43063/index.m3u8#http://59.49.111.195/live.aishang.ctlcdn.com/00000110240325_1/encoder/0/playlist.m3u8?CONTENTID=00000110240325_1#http://ivi6.bupt.edu.cn/hls/chchd.m3u8#http://iptv.pdsu.edu.cn/hls/chchd.m3u8#http://ivi.bupt.edu.cn/hls/chchd.m3u8
-CHC动作电影,http://39.134.18.65/wh7f454c46tw531198491_-284854256/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8?icpid=88888890&RTS=1591315979&from=1&ocs=2_39.134.18.65_80&hms_devid=7854&vqe=3#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51011/index.m3u8#http://59.49.111.195/live.aishang.ctlcdn.com/00000110240324_1/encoder/0/playlist.m3u8?CONTENTID=00000110240324_1
-CHC家庭电影,http://39.134.18.65/wh7f454c46tw531191542_752458225/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8?icpid=88888890&RTS=1591315979&from=1&ocs=2_39.134.18.65_80&hms_devid=7854&vqe=3#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51010/index.m3u8#http://59.49.111.195/live.aishang.ctlcdn.com/00000110240323_1/encoder/0/playlist.m3u8?CONTENTID=00000110240323_1
-4K超高清电影,http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51024/index.m3u8
+CHC高清电影,http://39.134.18.68/wh7f454c46tw531199668_1691826774/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8?icpid=88888890&RTS=1591315979&from=1&ocs=2_39.134.18.68_80&hms_devid=7855&vqe=3#http://180.97.123.180/sk.live.otvcloud.com/otv/skcc/live/channel43063/index.m3u8#http://59.49.111.195/live.aishang.ctlcdn.com/00000110240325_1/encoder/0/playlist.m3u8?CONTENTID=00000110240325_1#http://ivi6.bupt.edu.cn/hls/chchd.m3u8#http://iptv.pdsu.edu.cn/hls/chchd.m3u8#http://ivi.bupt.edu.cn/hls/chchd.m3u8
+CHC动作电影,http://39.134.18.65/wh7f454c46tw531198491_-284854256/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8?icpid=88888890&RTS=1591315979&from=1&ocs=2_39.134.18.65_80&hms_devid=7854&vqe=3#http://180.97.123.180/sk.live.otvcloud.com/otv/skcc/live/channel51011/index.m3u8#http://59.49.111.195/live.aishang.ctlcdn.com/00000110240324_1/encoder/0/playlist.m3u8?CONTENTID=00000110240324_1
+CHC家庭电影,http://39.134.18.65/wh7f454c46tw531191542_752458225/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8?icpid=88888890&RTS=1591315979&from=1&ocs=2_39.134.18.65_80&hms_devid=7854&vqe=3#http://180.97.123.180/sk.live.otvcloud.com/otv/skcc/live/channel51010/index.m3u8#http://59.49.111.195/live.aishang.ctlcdn.com/00000110240323_1/encoder/0/playlist.m3u8?CONTENTID=00000110240323_1
+4K超高清电影,http://180.97.123.180/sk.live.otvcloud.com/otv/skcc/live/channel51024/index.m3u8
 湖南电影,http://httpdvb.slave.homed.hunancatv.com:13164/playurl?playtype=live&protocol=hls&accesstoken=R5DEE27D0U309B3089K7735A23DIC56EFF0APBM2FFCD29V0Z69015W15DEAE8ECE8A23EB&playtoken=ABCDEFGH&programid=4200000026.m3u8
 长沙影视,http://116.207.131.14/guangdianyun_35848/tv_channel_350.m3u8
-峨眉电影（红标）,http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51008/index.m3u8
+峨眉电影（红标）,http://180.97.123.180/sk.live.otvcloud.com/otv/skcc/live/channel51008/index.m3u8
 峨眉电影（三色标）,http://220.194.223.62/scgctvshow.sctv.com/hdlive/emei/1.m3u8
 家庭剧场,http://hdtv.lzu6.edu.cn/hls/hls75a28.m3u8#http://hdtv.lzu6.edu.cn/hls/hls165.m3u8
 大众影视,http://hdtv.lzu6.edu.cn/hls/hls75a27.m3u8#http://hdtv.lzu6.edu.cn/hls/hls164.m3u8
@@ -131,29 +131,29 @@ CHC家庭电影,http://39.134.18.65/wh7f454c46tw531191542_752458225/dbiptv.sn.ch
 探索频道,#genre#
 CCTV-10科教,http://101.227.140.13/live-cnc-cdn.ysp.cctv.cn/ysp/2000203503.m3u8#http://101.71.255.232:6610/zjhs/2/10084/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://112.50.243.8/PLTV/88888888/224/3221225931/1.m3u8
 上海纪实,http://112.50.243.8/PLTV/88888888/224/3221225946/1.m3u8#http://140.207.241.2:8080/live/program/live/jspdhd/4000000/mnf.m3u8#http://ivi.bupt.edu.cn/hls/docuchina.m3u8#http://iptv.pdsu.edu.cn/hls/docuchina.m3u8
-金鹰纪实,http://112.50.243.8/PLTV/88888888/224/3221226937/1.m3u8#http://hdtv.lzu6.edu.cn/hls/hls75a26.m3u8#http://ivi.bupt.edu.cn/hls/gedocu.m3u8#http://iptv.pdsu.edu.cn/hls/gedocu.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43025/index.m3u8
+金鹰纪实,http://112.50.243.8/PLTV/88888888/224/3221226937/1.m3u8#http://hdtv.lzu6.edu.cn/hls/hls75a26.m3u8#http://ivi.bupt.edu.cn/hls/gedocu.m3u8#http://iptv.pdsu.edu.cn/hls/gedocu.m3u8#http://180.97.123.180/sk.live.otvcloud.com/otv/skcc/live/channel43025/index.m3u8
 北京纪实,http://112.50.243.8/PLTV/88888888/224/3221225944/1.m3u8#http://ivi.bupt.edu.cn/hls/btv11hd.m3u8#http://iptv.pdsu.edu.cn/hls/btv11hd.m3u8
-全纪实,http://iptv.pdsu.edu.cn/hls/documentaryhd.m3u8#http://140.207.241.2:8080/live/program/live/qjshd/4000000/mnf.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43040/4000.m3u8
+全纪实,http://iptv.pdsu.edu.cn/hls/documentaryhd.m3u8#http://140.207.241.2:8080/live/program/live/qjshd/4000000/mnf.m3u8#http://180.97.123.180/sk.live.otvcloud.com/otv/skcc/live/channel43040/4000.m3u8
 探索亚洲,http://iptv.pdsu.edu.cn/hls/discovery.m3u8
 国家地理,http://iptv.pdsu.edu.cn/hls/natlgeo.m3u8
-求索动物,http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43053/index.m3u8#http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=ts2hls?rrsip=ltcottcdn.ln.chinamobile.com&zoneoffset=0&servicetype=1
-求索纪录,http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43051/index.m3u8#http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls?rrsip=ltcottcdn.ln.chinamobile.com&zoneoffset=0&servicetype=1
-求索生活,http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43052/index.m3u8#,http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228983/01.m3u8?fmt=ts2hls?rrsip=ltcottcdn.ln.chinamobile.com&zoneoffset=0&servicetype=1
-求索科学,http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43054/index.m3u8#http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls?rrsip=ltcottcdn.ln.chinamobile.com&zoneoffset=0&servicetype=1
+求索动物,http://180.97.123.180/sk.live.otvcloud.com/otv/skcc/live/channel43053/index.m3u8#http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=ts2hls?rrsip=ltcottcdn.ln.chinamobile.com&zoneoffset=0&servicetype=1
+求索纪录,http://180.97.123.180/sk.live.otvcloud.com/otv/skcc/live/channel43051/index.m3u8#http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls?rrsip=ltcottcdn.ln.chinamobile.com&zoneoffset=0&servicetype=1
+求索生活,http://180.97.123.180/sk.live.otvcloud.com/otv/skcc/live/channel43052/index.m3u8#,http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228983/01.m3u8?fmt=ts2hls?rrsip=ltcottcdn.ln.chinamobile.com&zoneoffset=0&servicetype=1
+求索科学,http://180.97.123.180/sk.live.otvcloud.com/otv/skcc/live/channel43054/index.m3u8#http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls?rrsip=ltcottcdn.ln.chinamobile.com&zoneoffset=0&servicetype=1
 探索纪录,http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228366/01.m3u8?fmt=ts2hls?rrsip=ltcottcdn.ln.chinamobile.com&zoneoffset=0&servicetype=1
-漫游世界,http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228581/01.m3u8?fmt=ts2hls?rrsip=ltcottcdn.ln.chinamobile.com&zoneoffset=0&servicetype=1
+
 
 
 休闲频道,#genre#
 生活时尚,http://140.207.241.2:8080/live/program/live/shsshd/4000000/mnf.m3u8
 茶频道,http://39.135.250.73/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226058/99180001000000060000000000000415.smil#http://39.135.250.73/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226058/99180001000000060000000000000415.smil
-快乐垂钓,http://112.50.243.8/PLTV/88888888/224/3221226940/1.m3u8
-急速汽车,http://112.50.243.8/PLTV/88888888/224/3221226140/1.m3u8#http://140.207.241.2:8080/live/program/live/jsqchd/4000000/mnf.m3u8#http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43042/index.m3u8
+急速汽车,http://112.50.243.8/PLTV/88888888/224/3221226140/1.m3u8#http://140.207.241.2:8080/live/program/live/jsqchd/4000000/mnf.m3u8#http://180.97.123.180/sk.live.otvcloud.com/otv/skcc/live/channel43042/index.m3u8
 游戏风云,http://112.50.243.8/PLTV/88888888/224/3221226912/1.m3u8#http://140.207.241.2:8080/live/program/live/yxfyhd/4000000/mnf.m3u8
 风尚音乐,http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/5529729098703832176/z.m3u8?authCode=07110409322147352675&stbId=005301FF001589101611549359B92801&Contentid=5529729098703832176&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt&version=1.0&owaccmark=5529729098703832176&owchid=wasusyt&owsid=3246571579530794909&AuthInfo=2TOfGIahP4HrGWrHbpJXVM8tIjUabzvkQw3IFgi64wePjBmkxCliyfsNixolB3vk0fJDbsUHwM4ZMkLD2%2FuFtJVT%2FBKMSil0ujuXkiQNzBbZ5U6pNSIVxD4YjUWtTd0X#http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228344/01.m3u8?fmt=ts2hls?rrsip=ltcottcdn.ln.chinamobile.com&zoneoffset=0&servicetype=1
 综合娱乐,http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228575/01.m3u8?fmt=ts2hls?rrsip=ltcottcdn.ln.chinamobile.com&zoneoffset=0&servicetype=1
+漫游世界,http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228581/01.m3u8?fmt=ts2hls?rrsip=ltcottcdn.ln.chinamobile.com&zoneoffset=0&servicetype=1
 Channel[V],http://iptv.pdsu.edu.cn/hls/channelv.m3u8
-
+快乐垂钓,http://112.50.243.8/PLTV/88888888/224/3221226940/1.m3u8
 
 NewTV频道,#genre#
 Newtv超级综艺,http://112.50.243.8/PLTV/88888888/224/3221225924/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225801/1.m3u8
