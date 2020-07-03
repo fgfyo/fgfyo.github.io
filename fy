@@ -12,7 +12,7 @@ CCTV-9纪录,http://36.152.7.33/tlivecloud-cdn.ysp.cctv.cn/ysp/2000499403.m3u8#h
 CCTV-10科教,http://36.152.7.33/tlivecloud-cdn.ysp.cctv.cn/ysp/2000203503.m3u8#http://101.71.255.232:6610/zjhs/2/10084/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://112.50.243.8/PLTV/88888888/224/3221225931/1.m3u8
 CCTV-11戏曲,http://36.152.7.33/tlivecloud-cdn.ysp.cctv.cn/ysp/2000204103.m3u8#http://101.71.255.232:6610/zjhs/2/10085/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8
 CCTV-12社会与法,http://36.152.7.33/tlivecloud-cdn.ysp.cctv.cn/ysp/2000202603.m3u8#http://101.71.255.232:6610/zjhs/2/10086/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://112.50.243.8/PLTV/88888888/224/3221225932/1.m3u8
-CCTV-13新闻,http://36.152.7.33/tlivecloud-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
+CCTV-13新闻,http://36.152.7.33/tlivecloud-cdn.ysp.cctv.cn/ysp/2000204603.m3u8#http://107.148.240.185:13164/v/cctv.php?id=2000204603.m3u8
 CCTV-14少儿,http://36.152.7.33/tlivecloud-cdn.ysp.cctv.cn/ysp/2000204403.m3u8#http://101.71.255.232:6610/zjhs/2/10087/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://112.50.243.8/PLTV/88888888/224/3221225933/1.m3u8
 CCTV-15音乐,http://36.152.7.33/tlivecloud-cdn.ysp.cctv.cn/ysp/2000205003.m3u8#http://101.71.255.232:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
 CCTV-17农业农村,http://36.152.7.33/tlivecloud-cdn.ysp.cctv.cn/ysp/2000204203.m3u8#http://112.50.243.8/PLTV/88888888/224/3221226986/1.m3u8#http://itv.ahau.edu.cn/hls/cctv17hd.m3u8
