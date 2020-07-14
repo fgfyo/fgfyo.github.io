@@ -150,10 +150,10 @@ CCTV-10科教,http://36.152.7.33/tlivecloud-cdn.ysp.cctv.cn/ysp/2000203503.m3u8#
 全纪实,http://iptv.pdsu.edu.cn/hls/documentaryhd.m3u8#http://140.207.241.2:8080/live/program/live/qjshd/4000000/mnf.m3u8#http://180.97.123.180/sk.live.otvcloud.com/otv/skcc/live/channel43040/4000.m3u8
 探索亚洲,http://iptv.pdsu.edu.cn/hls/discovery.m3u8
 国家地理,http://iptv.pdsu.edu.cn/hls/natlgeo.m3u8
-求索动物,http://180.97.123.180/sk.live.otvcloud.com/otv/skcc/live/channel43053/index.m3u8#http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=ts2hls?rrsip=ltcottcdn.ln.chinamobile.com&zoneoffset=0&servicetype=1
-求索纪录,http://180.97.123.180/sk.live.otvcloud.com/otv/skcc/live/channel43051/index.m3u8#http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls?rrsip=ltcottcdn.ln.chinamobile.com&zoneoffset=0&servicetype=1
-求索生活,http://180.97.123.180/sk.live.otvcloud.com/otv/skcc/live/channel43052/index.m3u8#,http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228983/01.m3u8?fmt=ts2hls?rrsip=ltcottcdn.ln.chinamobile.com&zoneoffset=0&servicetype=1
-求索科学,http://180.97.123.180/sk.live.otvcloud.com/otv/skcc/live/channel43054/index.m3u8#http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls?rrsip=ltcottcdn.ln.chinamobile.com&zoneoffset=0&servicetype=1
+求索动物,http://117.148.187.85/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=ts2hls#http://180.97.123.180/sk.live.otvcloud.com/otv/skcc/live/channel43053/index.m3u8
+求索纪录,http://117.148.187.47/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls#http://180.97.123.180/sk.live.otvcloud.com/otv/skcc/live/channel43051/index.m3u8
+求索生活,http://117.148.187.99/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228983/01.m3u8?fmt=ts2hls#http://180.97.123.180/sk.live.otvcloud.com/otv/skcc/live/channel43052/index.m3u8
+求索科学,http://117.148.187.100/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls#http://180.97.123.180/sk.live.otvcloud.com/otv/skcc/live/channel43054/index.m3u8
 探索纪录,http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228366/01.m3u8?fmt=ts2hls?rrsip=ltcottcdn.ln.chinamobile.com&zoneoffset=0&servicetype=1
 
 
