@@ -89,17 +89,18 @@ CCTV新科动漫,http://39.135.19.166:18890/PLTV/88888888/224/3221225678/1/index
 凤凰资讯台,http://220.201.218.82:65530/live/fhzx/index.m3u8#http://tv.sason.xyz/proxy/fh.php?id=zx#http://101.227.140.13/qlive.fengshows.cn/live/PIN.flv#http://111.13.42.9/PLTV/88888888/224/3221225949/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 凤凰香港台,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8#http://104.250.154.42:8080/ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8#http://tv.sason.xyz/proxy/fh.php?id=hk#http://101.227.140.13/qlive.fengshows.cn/live/PHK.flv#http://111.13.42.9/PLTV/88888888/224/3221226120/1.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.m3u8
-有线新闻,http://liveicm2.utvlive.top/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
+有线新闻,p5p://0198.02686.cc:16871/5e021549000d8ec4e44477e9f2ec6aad.ts#http://liveicm2.utvlive.top/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
 有线综合娱乐,http://liveicm2.utvlive.top/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f-3.m3u8
 有线财经资讯,http://liveicm2.utvlive.top/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d-3.m3u8
 赛马直击,https://liveicm2.utvlive.top/live/2a663abfe6e6444881be6ff11207a63f/6800ef3fa1ba42fbb2fe86aebbaf318f-3.m3u8
-翡翠台,http://61.238.6.49:8000/bysid/1#http://27.36.62.163:9090/live/xgfeicui_1500.m3u8?ci=123&srchost=172.16.149.181:8060
-明珠台,http://61.238.6.49:8001/bysid/2#http://27.36.62.163:9090/live/xgmingzhu_1500.m3u8?ci=123&srchost=172.16.149.181:8060
-J2台,http://61.238.6.49:8001/bysid/82
-無綫新聞台,http://61.238.6.49:8001/bysid/83
-無綫財經資訊台,http://61.238.6.49:8001/bysid/85
+翡翠台,p5p://0198.02686.cc:16871/5d1a69fb000eb19011bef55c89140144.ts#http://27.36.62.163:9090/live/xgfeicui_1500.m3u8?ci=123&srchost=172.16.149.181:8060#http://61.238.6.49:8000/bysid/1
+明珠台,p5p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts#http://27.36.62.163:9090/live/xgmingzhu_1500.m3u8?ci=123&srchost=172.16.149.181:8060#http://61.238.6.49:8001/bysid/2
+J2台,p5p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts#http://61.238.6.49:8001/bysid/82
+無綫新聞台,p5p://0198.02686.cc:16871/5d6000ef00075fa1eddd111e1452c6bc.ts#http://61.238.6.49:8001/bysid/83
+無綫財經資訊台,p5p://0198.02686.cc:16871/5d6000ef00075fa1eddd111e1452c6bc.ts#http://61.238.6.49:8001/bysid/85
 ViuTV,http://61.238.6.49:8000/bysid/99
 ViuTVsix,http://61.238.6.49:8000/bysid/96
+RTHK31,p5p://0198.02686.cc:16871/5d495caf000f16ce956b79188dfc18de.ts#p5p://0198.02686.cc:16871/5d495caf000f16ce956b79188dfc18de.ts
 
 4K测试频道,#genre#
 CCTV-4K超高清,http://110.242.20.88/livews-4k.5club.cctv.cn/live/4K.stream/playlist.m3u8
