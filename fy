@@ -11,7 +11,7 @@ CCTV9,http://jxgz.jilu8.cn/PLTV/88888888/224/3221225626/2/index.m3u8?fmt=ts2hls#
 CCTV10,http://jxgz.jilu8.cn/PLTV/88888888/224/3221225627/2/index.m3u8?fmt=ts2hls#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8
 CCTV11,http://jxgz.jilu8.cn/PLTV/88888888/224/3221225628/2/index.m3u8?fmt=ts2hls#http://39.135.238.58/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?icpid=88888888&from=4&ocs=2_39.135.238.58_80&popid=4,6&hms_devid=3707&prioritypopid=4&vqe=3#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8
 CCTV12,http://jxgz.jilu8.cn/PLTV/88888888/224/3221225637/2/index.m3u8?fmt=ts2hls#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
-CCTV13,http://kid.hfcatv.com.cn:13164/playurl?accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&playtype=live&protocol=hls&accesstoken&playtoken=ABCDEFGH&auth=no&programid=4200000216.m3u8#http://59.44.53.36:14311/playurl?playtype=live&protocol=http&accesstoken=R5F22656FU3195804BK7804C004I57F7E2B7P2BF4M340E22CV0Z339C9W16267322BDCF99EA&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000067.m3u8#http://jxgz.jilu8.cn/PLTV/88888888/224/3221225638/2/index.m3u8?fmt=ts2hls
+CCTV13,http://59.44.53.36:14311/playurl?playtype=live&protocol=http&accesstoken=R5F22656FU3195804BK7804C004I57F7E2B7P2BF4M340E22CV0Z339C9W16267322BDCF99EA&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000067.m3u8#http://jxgz.jilu8.cn/PLTV/88888888/224/3221225638/2/index.m3u8?fmt=ts2hls
 CCTV14,http://jxgz.jilu8.cn/PLTV/88888888/224/3221225639/2/index.m3u8?fmt=ts2hls#http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8
 CCTV15,http://jxgz.jilu8.cn/PLTV/88888888/224/3221225641/2/index.m3u8?fmt=ts2hls#http://39.134.134.32/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226317/1.m3u8?icpid=88888888&from=4&ocs=2_39.134.134.32_80&popid=4,6&hms_devid=543&prioritypopid=4&vqe=3#http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226317/1.m3u8
 CCTV17,http://jxgz.jilu8.cn/PLTV/88888888/224/3221225907/2/index.m3u8?fmt=ts2hls#http://ivi.bupt.edu.cn/hls/cctv17hd.m3u8
@@ -21,18 +21,18 @@ CGTN英语国际,http://ivi.bupt.edu.cn/hls/cgtnhd.m3u8
 CGTN Documentary纪录,http://ivi.bupt.edu.cn/hls/cgtndochd.m3u8#http://hdtv.lzu6.edu.cn/hls/hls67a44.m3u8
 CETV1,http://112.50.243.8/PLTV/88888888/224/3221226954/1.m3u8#http://hdtv.lzu6.edu.cn/hls/cetv1hd.m3u8#http://ivi6.bupt.edu.cn/hls/cetv1hd.m3u8
 CCTV电视指南,http://39.135.19.166:18890/PLTV/88888888/224/3221225673/1/index.m3u8?fmt=ts2hls
-CCTV世界地理,http://39.135.19.166:18890/PLTV/88888888/224/3221225733/1/index.m3u8?fmt=ts2hls#http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=sjdl#http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=sjdl
-CCTV兵器科技,http://39.135.19.166:18890/PLTV/88888888/224/3221225676/1/index.m3u8?fmt=ts2hls#http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=gfjs#http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=gfjs
-CCTV怀旧剧场,http://39.135.19.166:18890/PLTV/88888888/224/3221225765/1/index.m3u8?fmt=ts2hls#http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=hjjc#http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=hjjc
-CCTV第一剧场,http://39.135.19.166:18890/PLTV/88888888/224/3221225702/1/index.m3u8?fmt=ts2hls#http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=dyjc#http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=dyjc
-CCTV风云剧场,http://39.135.19.166:18890/PLTV/88888888/224/3221225700/1/index.m3u8?fmt=ts2hls#http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=fyjc#http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=fyjc
-CCTV风云音乐,http://39.135.19.166:18890/PLTV/88888888/224/3221225698/1/index.m3u8?fmt=ts2hls#http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=fyyl#http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=fyyl
-CCTV风云足球,http://39.135.19.166:18890/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls#http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=fyzq#http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=fyzq
-CCTV高尔夫网球,http://39.135.19.166:18890/PLTV/88888888/224/3221225674/1/index.m3u8?fmt=ts2hls#http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=gefwq#http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=gefwq
-CCTV女性时尚,http://39.135.19.166:18890/PLTV/88888888/224/3221225699/1/index.m3u8?fmt=ts2hls#http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=nxss#http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=nxss
-CCTV央视文化精品,http://39.135.19.166:18890/PLTV/88888888/224/3221225675/1/index.m3u8?fmt=ts2hls#http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=whjp#http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=whjp
+CCTV世界地理,http://39.135.19.166:18890/PLTV/88888888/224/3221225733/1/index.m3u8?fmt=ts2hls
+CCTV兵器科技,http://39.135.19.166:18890/PLTV/88888888/224/3221225676/1/index.m3u8?fmt=ts2hls
+CCTV怀旧剧场,http://39.135.19.166:18890/PLTV/88888888/224/3221225765/1/index.m3u8?fmt=ts2hls
+CCTV第一剧场,http://39.135.19.166:18890/PLTV/88888888/224/3221225702/1/index.m3u8?fmt=ts2hls
+CCTV风云剧场,http://39.135.19.166:18890/PLTV/88888888/224/3221225700/1/index.m3u8?fmt=ts2hls
+CCTV风云音乐,http://39.135.19.166:18890/PLTV/88888888/224/3221225698/1/index.m3u8?fmt=ts2hls
+CCTV风云足球,http://39.135.19.166:18890/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls
+CCTV高尔夫网球,http://39.135.19.166:18890/PLTV/88888888/224/3221225674/1/index.m3u8?fmt=ts2hls
+CCTV女性时尚,http://39.135.19.166:18890/PLTV/88888888/224/3221225699/1/index.m3u8?fmt=ts2hls
+CCTV央视文化精品,http://39.135.19.166:18890/PLTV/88888888/224/3221225675/1/index.m3u8?fmt=ts2hls
 CCTV中学生,http://39.135.19.166:18890/PLTV/88888888/224/3221225663/1/index.m3u8?fmt=ts2hls
-CCTV老故事,http://39.135.19.166:18890/PLTV/88888888/224/3221225677/1/index.m3u8?fmt=ts2hls#http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=lgs#http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=lgs
+CCTV老故事,http://39.135.19.166:18890/PLTV/88888888/224/3221225677/1/index.m3u8?fmt=ts2hls
 CCTV新科动漫,http://39.135.19.166:18890/PLTV/88888888/224/3221225678/1/index.m3u8?fmt=ts2hls
 
 
@@ -97,7 +97,7 @@ CCTV新科动漫,http://39.135.19.166:18890/PLTV/88888888/224/3221225678/1/index
 凤凰资讯台,http://220.201.218.82:65530/live/fhzx/index.m3u8#http://111.13.42.9/PLTV/88888888/224/3221225949/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 凤凰香港台,http://223.110.245.136/ott.js.chinamobile.com/PLTV/3/224/3221226975/index.m3u8#http://104.250.154.42:8080/ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8#http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8#http://111.13.42.9/PLTV/88888888/224/3221226120/1.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.m3u8
-有线新闻,p5p://0198.02686.cc:16871/5e021549000d8ec4e44477e9f2ec6aad.ts#http://liveicm2.utvlive.top/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
+有线新闻,p5p://0198.02686.cc:16871/5e021549000d8ec4e44477e9f2ec6aad.ts#http://liveicm3.utvlive.top/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
 有线综合娱乐,http://liveicm3.utvlive.top/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f-3.m3u8
 有线财经资讯,http://liveicm3.utvlive.top/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d-3.m3u8
 赛马直击,https://liveicm3.utvlive.top/live/2a663abfe6e6444881be6ff11207a63f/6800ef3fa1ba42fbb2fe86aebbaf318f-3.m3u8
